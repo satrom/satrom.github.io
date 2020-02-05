@@ -18,3 +18,7 @@
 7. http://zhiboy.ml/tv.txt
 
 8. http://epg.51zmt.top:8000/e.xml
+
+9. https://satrom.github.io/hblist.m3u
+
+10. https://satrom.github.io/hblist.txt
