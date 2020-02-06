@@ -33,7 +33,6 @@ http://39.135.34.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ys
 http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视频道",CCTV-17农村农业
 http://39.135.34.140:18890/000000001000/1000000005000056836/1.m3u8?channel-id=ystenlive&Contentid=1000000005000056836&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=1106497909461196027&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE6skxOPttMtBQzbEMb71jMrM9bNA5sjuldmGASVEj1FB1TOzqCEWAK6w%2FJbtYz8kEYu99sUSfTSd48Av%2FzOzjC1
-
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视频道",湖南卫视高清
 http://39.135.34.153:18890/000000001000/1000000001000009115/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009115&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=1106497909461209970&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRJ1HPTMtmQf%2bVwcp8RojByB2Rhtn7waHVWUQ9gcJ0mHLEp3xuYtoWp3K%2bdNVn%2bMR4
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视频道",北京卫视高清
@@ -94,7 +93,6 @@ http://39.135.34.154:18890/000000001000/1000000002000009263/1.m3u8?channel-id=ys
 http://39.135.34.145:18890/000000001000/1000000002000003169/1.m3u8?channel-id=ystenlive&Contentid=1000000002000003169&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000003169&owchid=ystenlive&owsid=1106497909461328035&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhEobBU2fUvDIVr2YUAB3sQC3mtTDqCyM2IHfZcfgwbCVw3In3iCPMx3CBGKKivBM4
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视频道",甘肃卫视
 http://39.135.34.158:18890/000000001000/1000000002000017827/1.m3u8?channel-id=ystenlive&Contentid=1000000002000017827&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1106497909461366475&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhA4sBZEsqnSa3KvsIaVI9wPS8Gj6lJe1Zo41ze%2fWmzecpyT4Tmxoc1paT1vcrQhVS
-
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文
 http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港台频道",凤凰中文(备1)
@@ -187,7 +185,6 @@ http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-id="7143" tvg-name="BabyFirst" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="港台频道",BabyFirst台湾
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-
 #EXTINF:-1 tvg-id="1968" tvg-name="DOX院线" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX-CINEMA.png" group-title="DOX轮播",DOX院线
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=8a7d213b10550559a073db188d08d5f7
 #EXTINF:-1 tvg-id="1955" tvg-name="DOX雅趣" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOX_YAQU.png" group-title="DOX轮播",DOX雅趣
@@ -202,98 +199,3 @@ http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=9c6e3fd0b37dd8b7e4bc1f06c44cb6c
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=21e5f6a02640bf440df4c079b4c3ad23
 #EXTINF:-1 tvg-id="110" tvg-name="DOX映画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doxyinghua.png" group-title="DOX轮播",DOX映画
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e16878a022c216b17975299a9ac369dc
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第1集
-http://cn7.7639616.com/hls/20191126/eebb68accf60bff8adffe64c7ac68219/1574769804/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第2集
-http://cn6.7639616.com/hls/20191126/5732e6c5fd2ba9580797bbac42bc3afa/1574769508/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第3集
-http://cn6.7639616.com/hls/20191126/4a8f0703560fbf62737a5412e621106c/1574769796/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第4集
-http://cn6.7639616.com/hls/20191126/92cd1cc6dc8b17f5af5e9ef4e4646f31/1574770052/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第5集
-http://cn6.7639616.com/hls/20191127/dda0147253cc5614c1ee9dc07db53d4d/1574855943/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第6集
-http://cn6.7639616.com/hls/20191127/cf70a07ea78d7a49bcb8c8ad143509cb/1574856214/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第7集
-http://cn7.7639616.com/hls/20191202/6130d5894de49730b8efd518726af6d0/1575289774/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第8集
-http://cn7.7639616.com/hls/20191202/5764ab97bf8d77657045a9cce212602c/1575290626/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第9集
-http://cn7.7639616.com/hls/20191202/32bbb815423d075d4fa7dc5709543d70/1575290909/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第10集
-http://cn7.7639616.com/hls/20191202/d1ba87034a6c2cafc04c426c2d36fa9c/1575290072/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第11集
-http://cn7.7639616.com/hls/20191202/7e13c54c25302df4b91ac796630970e0/1575290345/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第12集
-http://cn6.7639616.com/hls/20191203/53260ec7a4b66e59819a294b479f7431/1575374276/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第13集
-http://cn6.7639616.com/hls/20191203/bcf2643ea292d4c6dc4d4a97a307bcfe/1575374517/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第14集
-http://cn6.7639616.com/hls/20191204/b6de5e37911e398ced3222ac05bac6cd/1575461531/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第15集
-http://cn6.7639616.com/hls/20191204/5e664c13bb769d14505ac7bde3ee4c5f/1575461816/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第16集
-http://cn6.7639616.com/hls/20191205/22cd2b1ea49a2e23c5bced92209dbbd1/1575552029/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第17集
-http://cn7.7639616.com/hls/20191205/916a0b5ae4898cf8d8711efae0a4c3fe/1575552019/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第18集
-http://cn7.7639616.com/hls/20191210/b740ab52eddddd94362c6f115295147c/1575981959/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第19集
-http://cn7.7639616.com/hls/20191210/705ead2f03fb42b5486e02ce37b60f3c/1575982216/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第20集
-http://cn6.7639616.com/hls/20191210/7207e4d9b553eaf7dc28a6b48c4a9650/1575983199/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第21集
-http://cn6.7639616.com/hls/20191210/4aad8f826a12afd1344ebcbea7fe5e16/1575983939/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第22集
-http://cn7.7639616.com/hls/20191211/dc5da261da7723f499e096ba560f6b1a/1576072148/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第23集
-http://cn7.7639616.com/hls/20191211/13717fa114b4d5acd5dcef6b80680c63/1576071284/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第24集
-http://cn6.7639616.com/hls/20191211/18f9775f5c6a908a2e4f572326a29edf/1576071251/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第25集
-http://cn7.7639616.com/hls/20191211/61e986ad5fad7b64958388200fae21e8/1576071659/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第26集
-http://cn6.7639616.com/hls/20191211/60b8547d81f49a38b9b15a628cc2401d/1576072150/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第27集
-http://cn6.7639616.com/hls/20191211/c5becb0622315154011b5eb6a8a50068/1576071720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第28集
-http://cn7.kankia.com/hls/20191216/1502d3f4cab18c1b420df1eb832460c8/1576499388/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第29集
-http://cn7.kankia.com/hls/20191216/b25ca0acefce9290b34ff6039bff53da/1576499044/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第30集
-http://cn7.kankia.com/hls/20191216/54f4d7c9b2c0ff2ad2fa16f47d47787b/1576509615/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第31集
-http://cn7.kankia.com/hls/20191216/ce7c7408bf80ac15d23360d1be7f7673/1576509006/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第32集
-http://cn6.kankia.com/hls/20191217/9172fdc56e0f7c5808a5971cdf037d54/1576547595/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第33集
-http://cn6.kankia.com/hls/20191217/1e89d91110ec458634943e4e15bc8eae/1576587346/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第34集
-http://cn1.kankia.com/hls/20191220/5b80956aae2ee3d6f1d8b3c08a621d8e/1576772292/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第35集
-http://cn1.kankia.com/hls/20191220/965da83a216ee4cd2c5c07c2de7106b9/1576772932/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第36集
-http://cn1.kankia.com/hls/20191220/d7bc020860d12f43157b8d7d289257bb/1576774293/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第37集
-http://cn1.kankia.com/hls/20191220/15f859476ffa2659a22a34553c45652c/1576773629/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第38集
-http://cn1.kankia.com/hls/20191220/11e8b18c54394bca7310b312dd93ce8c/1576774930/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第39集
-http://cn1.kankia.com/hls/20191220/6face134b805c162536e1acc59679866/1576775577/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第40集
-http://cn1.kankia.com/hls/20191220/545eab2e87327ddbb79c1626fd878b3a/1576776206/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第41集
-http://cn1.kankia.com/hls/20191220/6c9061cd68c1b69c50dacff8f0f453b8/1576776857/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第42集
-http://cn1.kankia.com/hls/20191220/949f6fb35b7fe5cee4a7851164c025ef/1576777481/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第43集
-http://cn1.kankia.com/hls/20191220/223da575109810cba2d8d71b3ce6ab52/1576776843/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第44集
-http://cn1.kankia.com/hls/20191220/bd636dc3c84dfbb218639f91199fabba/1576776144/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第45集
-http://cn1.kankia.com/hls/20191220/c046cf9b2ab8e24014fb66256c8a1486/1576775998/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://image.135editor.com/uploadword/4457773/201912/5e017a43-1950-4810-b5f0-15c3ac10006b.jpg" group-title="余庆年",第46集
-http://cn1.kankia.com/hls/20191220/596ff11e1db2c3969da01367fc41d3b0/1576776716/index.m3u8
-
-
