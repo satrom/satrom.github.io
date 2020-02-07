@@ -101,8 +101,6 @@ http://220.158.149.14:9999/live/TV00000000000000000066@HHZT;LIVE
 http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="港台频道",无线新闻
 http://www.liveviptv.xyz/tv/tvb.php?vid=wxxw
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://www.tvyan.com/uploads/dianshi/tvb-news.jpg" group-title="港台频道",无线新闻(备)
-http://185.180.221.194:8278/Inews/playlist.m3u8?tid=56699937&ct=18205&tsum=6a2b767494bda26fa75d52fee20a26c2
 #EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="港台频道",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hongkongkai.png" group-title="港台频道",香港开电视
