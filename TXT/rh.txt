@@ -1,0 +1,12 @@
+日本，#genre#
+日本NHK[HD],http://pili-live-hdl.qhmywl.com/dsdtv/6c2713799277ea6ea2d3bfd0d4c31f88.flv
+日本NHK WORLD,http://pili-live-hdl.qhmywl.com/dsdtv/1b06c6242b2fd17ab11a21d70abb2e67.flv
+日本Z频道,http://pili-live-hdl.qhmywl.com/dsdtv/30a7edb2f6c42bd079dd4910806decde.flv
+日本Japanet Channel DX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+日本映画,http://192.240.127.34:1935/live/cs19.stream/play.m3u8
+Japan24news,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+日本WOWOW,http://192.240.127.34:1935/live/cs27.stream/media_1254.m3u8?wowzasessionid=1300220279
+日本历史,http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+日本家庭剧场,http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+日本卫星剧场,http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+日本CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
