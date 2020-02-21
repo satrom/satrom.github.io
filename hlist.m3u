@@ -127,7 +127,7 @@ http://hls.globaliptv.ml/myguizhou.php?id=qinghaiweishi
 http://hls.globaliptv.ml/myguizhou.php?id=xizangweishi
 #EXTINF:-1 tvg-id="61" tvg-logo="http://tv.sason.xyz/logo/btws.png" group-title="B.卫视",兵团卫视 SD
 http://183.238.77.9:9090/live/bingtuan_1500.m3u8
-#EXTINF:-1 tvg-id="106" tvg-logo="http://tv.sason.xyz/logo/cctv4k.png" group-title="C.4K频道",CCTV 4K 高码率
+#EXTINF:-1 tvg-id="106" tvg-logo="http://tv.sason.xyz/logo/cctv4k.png" group-title="C.4K频道",CCTV 4K高码率
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=07259f1303e848e481fbc3543d583644
 #EXTINF:-1 tvg-id="74" tvg-name="" tvg-logo="http://www.bestv.com.cn/statics/logo/logo24.jpg" group-title="C.4K频道",BesTV4K
 http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
